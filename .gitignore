@@ -1,2 +1,10 @@
 .modgit/
+LICENSE_AFL.txt
+LICENSE.html
+LICENSE.txt
+LICENSE_EE*
+media/catalog/product/cache/
+nbproject/
+php.ini.sample
+RELEASE_NOTES.txt
 var/
