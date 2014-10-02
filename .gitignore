@@ -3,7 +3,15 @@ LICENSE_AFL.txt
 LICENSE.html
 LICENSE.txt
 LICENSE_EE*
+includes/src/
+downloader/.cache/
+media/captcha/
 media/catalog/product/cache/
+media/wysiwyg/.thumbs/
+media/css/
+media/css_secure/
+media/js/
+media/tmp/
 nbproject/
 php.ini.sample
 RELEASE_NOTES.txt
